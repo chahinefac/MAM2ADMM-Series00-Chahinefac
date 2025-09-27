@@ -5,6 +5,7 @@ This is chance for me to upgrade my skills and learn better how to use Git
 
 ## Pretty image
 ![pretty_image](https://ih1.redbubble.net/image.1521638664.3118/flat,750x,075,f-pad,750x1000,f8f8f8.jpg)
+
 This is Miyamoto Musashi, known as the last samourai who ever lived, also the greatest swordsman of his generation.
 
 
